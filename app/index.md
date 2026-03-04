@@ -17,6 +17,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
+[Quick Duck Chilli](recipe/feb/quick-duck-chilli.md)
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 

@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+- February: [Quick Duck Chilli](../recipe/jan/quick-duck-chilli.md)

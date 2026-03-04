@@ -10,8 +10,7 @@ Source: https://www.allrecipes.com/recipe/174361/asparagus-with-cranberries-and-
 - 3 tablespoons olive oil
 - ⅓ cup pine nuts
 - ⅓ cup dried cranberries
-- 1 pinch salt
-
+- 1 pinch of salt
 
 # Instructions
 

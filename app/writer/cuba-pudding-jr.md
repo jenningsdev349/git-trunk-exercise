@@ -5,3 +5,5 @@
 Recipe Picks:
 
 - January: [Grilled Peach Salad](../recipe/jan/grilled-peach-salad.md)
+
+- February: [Coconut Custard Pie](../recipe/feb/coconut-custard-pie.md)
